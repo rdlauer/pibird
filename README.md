@@ -8,6 +8,8 @@ remotely-running bird identification system (complete with solar/battery and
 > view the complete tutorial over at
 > [Hackster.io](https://www.hackster.io/rob-lauer/remote-birding-with-tensorflow-lite-and-raspberry-pi-8c4fcc)!
 
+![completed project](images/hw-final.jpg)
+
 **Hardware:**
 
 - [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)

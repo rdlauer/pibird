@@ -4,7 +4,11 @@ In this project, I take a set of off-the-shelf hardware and create a
 remotely-running bird identification system (complete with solar/battery and
 [cellular](https://blues.io/))!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aZI2Ou2lAX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ifdef::env-github[]
+image:https://img.youtube.com/vi/aZI2Ou2lAX4/maxresdefault.jpg[link=https://youtu.be/aZI2Ou2lAX4]
+endif::[]
+
+ifndef::env-github[] video::aZI2Ou2lAX4[youtube] endif::[]
 
 > View the complete tutorial over at
 > [Hackster.io](https://www.hackster.io/rob-lauer/remote-birding-with-tensorflow-lite-and-raspberry-pi-8c4fcc)!
